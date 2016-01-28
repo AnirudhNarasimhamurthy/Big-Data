@@ -1,0 +1,26 @@
+
+
+
+Corrupt jar file issue or sbt assembly issue
+---------------------------------------------
+
+Update the sbt-launch-lib.bash file
+
+https://github.com/databricks/spark-csv/issues/114
+
+
+Error while starting PySPark (Add entry to the hosts file)
+-------------------------------------------------------------
+
+http://stackoverflow.com/questions/30925070/apache-spark-error-while-starting-pyspark
+
+
+No module named pyspark error
+------------------------------
+
+http://stackoverflow.com/questions/23256536/importing-pyspark-in-python-shell
+
+Add entries for SPARK_HOME and PYTHON PATH to .bash_profile file
+
+Compile the bash_profile using . .bash_profile
+
